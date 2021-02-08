@@ -1,7 +1,4 @@
-# CM10313-group-6
-#<<<<<<< patch-2
-#callum was here
-#=======
-#
-#Alex was also here
-#>>>>>>> main
+CM10313-group-6
+callum was here
+Alex was also here
+joel - edit test
